@@ -3,18 +3,18 @@
  * To change this template file, choose Tools | Templates
  * and open the template in the editor.
  */
-package Bai8_KeThua_XuLyChuoi;
+package Bai8_KeThua;
 
 /**
  *
  * @author LegendNguyen
  */
-public class SinhVien {
-    private String masv;
-    private String tensv;
-    private String tuoisv;
+public class GiaoVien {
+     private String magv;
+    private String tengv;
+    private String tuoigv;
     private String diachi1;
     private String diachi2;
     private String sdt;
-    private double gpa;
+    private double hours;
 }
